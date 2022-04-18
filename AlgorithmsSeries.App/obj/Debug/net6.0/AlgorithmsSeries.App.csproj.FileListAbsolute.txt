@@ -1,0 +1,15 @@
+C:\Users\mteix\source\repos\AlgorithmsSeries\AlgorithmsSeries.App\bin\Debug\net6.0\AlgorithmsSeries.App.exe
+C:\Users\mteix\source\repos\AlgorithmsSeries\AlgorithmsSeries.App\bin\Debug\net6.0\AlgorithmsSeries.App.deps.json
+C:\Users\mteix\source\repos\AlgorithmsSeries\AlgorithmsSeries.App\bin\Debug\net6.0\AlgorithmsSeries.App.runtimeconfig.json
+C:\Users\mteix\source\repos\AlgorithmsSeries\AlgorithmsSeries.App\bin\Debug\net6.0\AlgorithmsSeries.App.dll
+C:\Users\mteix\source\repos\AlgorithmsSeries\AlgorithmsSeries.App\bin\Debug\net6.0\AlgorithmsSeries.App.pdb
+C:\Users\mteix\source\repos\AlgorithmsSeries\AlgorithmsSeries.App\obj\Debug\net6.0\AlgorithmsSeries.App.csproj.AssemblyReference.cache
+C:\Users\mteix\source\repos\AlgorithmsSeries\AlgorithmsSeries.App\obj\Debug\net6.0\AlgorithmsSeries.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mteix\source\repos\AlgorithmsSeries\AlgorithmsSeries.App\obj\Debug\net6.0\AlgorithmsSeries.App.AssemblyInfoInputs.cache
+C:\Users\mteix\source\repos\AlgorithmsSeries\AlgorithmsSeries.App\obj\Debug\net6.0\AlgorithmsSeries.App.AssemblyInfo.cs
+C:\Users\mteix\source\repos\AlgorithmsSeries\AlgorithmsSeries.App\obj\Debug\net6.0\AlgorithmsSeries.App.csproj.CoreCompileInputs.cache
+C:\Users\mteix\source\repos\AlgorithmsSeries\AlgorithmsSeries.App\obj\Debug\net6.0\AlgorithmsSeries.App.dll
+C:\Users\mteix\source\repos\AlgorithmsSeries\AlgorithmsSeries.App\obj\Debug\net6.0\refint\AlgorithmsSeries.App.dll
+C:\Users\mteix\source\repos\AlgorithmsSeries\AlgorithmsSeries.App\obj\Debug\net6.0\AlgorithmsSeries.App.pdb
+C:\Users\mteix\source\repos\AlgorithmsSeries\AlgorithmsSeries.App\obj\Debug\net6.0\AlgorithmsSeries.App.genruntimeconfig.cache
+C:\Users\mteix\source\repos\AlgorithmsSeries\AlgorithmsSeries.App\obj\Debug\net6.0\ref\AlgorithmsSeries.App.dll
